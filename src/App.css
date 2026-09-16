@@ -1,0 +1,41 @@
+.card {
+  max-width: 28rem;
+  margin: 4rem auto;
+  padding: 2rem 2.5rem;
+  text-align: center;
+  background: #1a1d29;
+  border: 1px solid #2e3348;
+  border-radius: 12px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+}
+
+.card h1 {
+  margin: 0 0 1rem;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #f4f6fb;
+}
+
+.success {
+  margin: 0 0 1rem;
+  font-size: 1.125rem;
+  color: #4ade80;
+  font-weight: 600;
+}
+
+.version {
+  margin: 0 0 1.25rem;
+  font-size: 1rem;
+  color: #c8d0e0;
+}
+
+.version span {
+  font-weight: 700;
+  color: #60a5fa;
+}
+
+.footer {
+  margin: 0;
+  font-size: 0.875rem;
+  color: #8b95a8;
+}
